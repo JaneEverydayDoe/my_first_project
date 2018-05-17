@@ -1,7 +1,19 @@
 # This is the README file for my_first_project
+
+Last updated: 02-Mar-2018
+
 The folders in this project are: 
 
-* _data_ - is the folder where you will put all the data you have collected or been given to analyze.
-* _figures_ - is where you will put plots, data pictures, and other images you have created to show data to other people. 
-* _code_ - is where you will create code files for collecting, cleaning up, or analyzing data. 
-* _products_ - this is the place where you will place any reports, presentations, or products you create for sharing with other people.
+* _data_ - is the folder where you can find all the collected data.
+* _figures_ - is where you can find all the  plots, data pictures, and other images.
+* _code_ - is where you can find code files for collecting, cleaning up, or analyzing data. 
+* _products_ - is where you can find reports, presentations, or products
+
+Data on crime is obtained from International Crime Data collected between 2015-2018 and is publicly available. Data on happiness is collected from the Survey of International Happiness.
+
+Contributors:
+- Jane Everyday Doe, jane.everyday.doe@gmail.com
+- John Everyday Doe, john.everyday.doe@gmail.com
+
+Cite:
+Doe, J, and Doe, J, Sample Analysis Using Sample Data, Working Paper, 2018
